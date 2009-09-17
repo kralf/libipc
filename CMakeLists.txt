@@ -10,7 +10,7 @@ remake_project(
   AUTHOR "Reid Simmons"
   CONTACT "reids@cs.cmu.edu"
   HOME "http://www.cs.cmu.edu/~ipc"
-  LICENSE "Propietary License"
+  LICENSE "Simplified BSD License"
   PREFIX ipc-
   INSTALL /usr
 )
