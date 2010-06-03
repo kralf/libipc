@@ -18,5 +18,13 @@ remake_project(
 remake_add_directories(doc)
 
 remake_pack_deb()
-remake_pack_deb(COMPONENT dev)
-remake_pack_deb(ARCH all COMPONENT doc)
+remake_pack_deb(
+  COMPONENT dev
+  DESCRIPTION "development headers"
+  libipc
+)
+remake_pack_deb(
+  ARCH all
+  COMPONENT doc
+  DESCRIPTION "documentation"
+)
