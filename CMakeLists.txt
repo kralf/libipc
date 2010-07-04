@@ -15,7 +15,9 @@ remake_project(
   INSTALL /usr
 )
 
-remake_add_directories(doc)
+remake_doc(
+  pdf
+)
 
 remake_pack_deb()
 remake_pack_deb(
