@@ -1,3 +1,9 @@
+libipc (3.8.4-8) lucid; urgency=low
+
+  * Added precise distribution
+
+ -- Ralf Kaestner <ralf.kaestner@gmail.com>  Thu, 21 Mar 2013 16:39:00 +0100
+
 libipc (3.8.4-7) lucid; urgency=low
 
   * Release distribution
