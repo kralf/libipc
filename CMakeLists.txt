@@ -23,7 +23,7 @@ remake_pack_deb()
 remake_pack_deb(
   COMPONENT dev
   DESCRIPTION "development headers"
-  libipc
+  DEPENDS libipc
 )
 remake_pack_deb(
   ARCH all
