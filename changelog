@@ -1,8 +1,8 @@
 libipc (3.8.4-9) lucid; urgency=low
 
-  * Top-level CMakeLists file adapted to latest ReMake release
+  * Rebased project to github
 
- -- Ralf Kaestner <ralf.kaestner@gmail.com>  Sun, 24 Mar 2013 18:28:00 +0100
+ -- Ralf Kaestner <ralf.kaestner@gmail.com>  Sat, 20 Apr 2013 11:36:00 +0100
 
 libipc (3.8.4-8) lucid; urgency=low
 
