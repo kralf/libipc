@@ -1,8 +1,20 @@
-libipc (3.8.4-9) lucid; urgency=low
+libipc (3.8.4-11) lucid; urgency=low
+
+  * Fixed changelog
+
+ -- Ralf Kaestner <ralf.kaestner@gmail.com>  Sat, 20 Apr 2013 11:39:00 +0100
+
+libipc (3.8.4-10) lucid; urgency=low
 
   * Rebased project to github
 
  -- Ralf Kaestner <ralf.kaestner@gmail.com>  Sat, 20 Apr 2013 11:36:00 +0100
+
+libipc (3.8.4-9) lucid; urgency=low
+
+  * Top-level CMakeLists file adapted to latest ReMake release
+
+ -- Ralf Kaestner <ralf.kaestner@gmail.com>  Sun, 24 Mar 2013 17:17:17 +0100
 
 libipc (3.8.4-8) lucid; urgency=low
 
