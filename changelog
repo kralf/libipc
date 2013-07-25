@@ -1,3 +1,9 @@
+libipc (3.8.4-13) lucid; urgency=low
+
+  * Added missing pkg-config build dependency
+
+ -- Ralf Kaestner <ralf.kaestner@gmail.com>  Thu, 25 Jul 2013 15:36:00 +0100
+
 libipc (3.8.4-12) lucid; urgency=low
 
   * Added pkg-config file

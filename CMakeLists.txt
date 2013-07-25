@@ -35,13 +35,13 @@ remake_distribute_deb(
   DISTRIBUTION lucid
   SECTION libs
   UPLOAD ppa:kralf/asl
-  DEPENDS remake
+  DEPENDS remake pkg-config
   PASS CMAKE_BUILD_TYPE LIBIPC_GIT_REVISION
 )
 remake_distribute_deb(
   DISTRIBUTION precise
   SECTION libs
   UPLOAD ppa:kralf/asl
-  DEPENDS remake
+  DEPENDS remake pkg-config
   PASS CMAKE_BUILD_TYPE LIBIPC_GIT_REVISION
 )
