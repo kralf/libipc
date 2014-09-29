@@ -1,3 +1,9 @@
+libipc (3.8.4-14) lucid; urgency=low
+
+  * Release distribution for Ubuntu Trusty Tahr
+
+ -- Ralf Kaestner <ralf.kaestner@gmail.com>  Mon, 29 Sep 2014 10:07:00 +0100
+
 libipc (3.8.4-13) lucid; urgency=low
 
   * Added missing pkg-config build dependency
